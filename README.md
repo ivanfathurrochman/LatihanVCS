@@ -8,7 +8,7 @@
 
 git --version
 
-![Gambar1](gambar/git1.png)
+![Gambar1](gambar/git.jpeg)
 
 #### - Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
 #### - Konfigurasi ini bisa dilakukan untuk global repository atau individual repository
@@ -65,21 +65,21 @@ $ git init
 $ echo "# Latihan 1 " >> README.md
 
 #### - File README.md berhasil dibuat.
-![Gambar1](gambar/git2.png)
+![Gambar1](gambar/git1.jpeg)
 #### - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 
 $ git add README.md
 
 #### - File README.md berhasil ditambahkan.
 
-![Gambar1](gambar/git3.png)
+![Gambar1](gambar/git2.jpeg)
 
 ## Commit (Menyimpan Perubahan ke Database)
 
 #### - Untuk menyimpan perubahan yang ada kedalam databse repository lokal, gunakan perintah git commit -m "komentar commit"
 #### - Perubahann berhasil disimpan
 
-![Gambar1](gambar/git4.png)
+![Gambar1](gambar/git3.jpeg)
 
 ## Membuat Reposity Server
 
@@ -88,12 +88,12 @@ $ git add README.md
 #### - Pada laman github, klik tombol start a project, atau 
 ####   dari menu (icon +) klik New Repository.
 
-![Gambar1](gambar/git5.png)
-![Gambar1](gambar/git6.png)
+![Gambar1](gambar/git4.jpeg)
+![Gambar1](gambar/git5.jpeg)
 #### - Isi nama repositorynya, misal: labpy.
 #### - Lalu klik tombol Create repository.
 
-![Gambar1](gambar/git7.png)
+![Gambar1](gambar/git6.jpeg)
 
 ## Menambahkan Remote Repository
 
@@ -111,14 +111,14 @@ $ git push -u origin master
 
 #### - Perintah ini akan meminta memasukkan username dan password pada akun anda di github.com
 
-![Gambar1](gambar/git8.png)
+![Gambar1](gambar/git7.jpeg)
 
 ## Melihat Hasilnya pada Server Repository
 
 #### - Buka laman github.com, arahkan pada repositorynya
 #### - Maka perubahan akan terlihat pada laman tersebut
 
-![Gambar1](gambar/git9.png)
+![Gambar1](gambar/git8.jpeg)
 
 
 ## Clone Repository
@@ -130,7 +130,7 @@ $ git push -u origin master
 $ git clone [https://github.com/ivanfathurrochman/labpy1.git]
 
 
-![Gambar1](gambar/git10.png)
+![Gambar1](gambar/git9.jpeg)
 
 ## Kegunaan file README.md
 
